@@ -1,12 +1,12 @@
-#Inventory Manager
+# Inventory Manager
 
 This program consists in a very simple database for an inventory that can store all types of products along with some information. It can also process orders of those products.
 
-###Data scheme
+### Data scheme
 
 The product inventory is a large array of products whose id is the index in the array and thus corresponds to the order by which they were added. In an equivalent manner there is an array that stores the orders (which are sets of products).
 
-###Features
+### Features
 
 Here is a table of the supported features and the respective commands.
 
