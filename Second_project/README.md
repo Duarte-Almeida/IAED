@@ -4,4 +4,4 @@ This project implements a very simple database for friendly games between teams,
 
 # Data Scheme
 
-It fundamentally makes use of hash tables.
+Matches and teams are stored in hashtables which use external chaining for solving conflicts.
