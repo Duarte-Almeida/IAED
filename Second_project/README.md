@@ -5,3 +5,4 @@ This project implements a very simple database for friendly games between teams,
 # Data Scheme
 
 Matches and teams are stored in hashtables which use external chaining for solving conflicts.
+To be updated.
