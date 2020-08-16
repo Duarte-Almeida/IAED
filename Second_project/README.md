@@ -4,4 +4,4 @@ This project implements a very simple database for friendly games between teams,
 
 # Data Scheme
 
-It fundamentally makes use of hash tables.
+To be updated.
