@@ -11,7 +11,7 @@ Matches and teams are stored in hashtables and are hashed according to their nam
 Here's a list of the supported features and the respective commands.
 
 | Command | Action | Input command|
------------------------------------
+|---------|--------|--------------|
 | a | Adds a new match | a:game_name:team_1:team_2:score_1:score_2 |
 | l | Lists all matches | l |
 | p | Looks up a match by its name | p:game_name |
